@@ -14,7 +14,7 @@ Our Text Adventure Game offers players an unparalleled level of freedom and crea
 - **Speech Recognition:** Speak your choices and see them influence the world in real-time.
 - **Text-to-Speech Narration:** High-quality voice output brings the story and characters to life.
 - **Highly Customizable:** Adjust speech and text settings to tailor the experience to your preferences.
-- **Offline Play:** No internet connection? No problem. Dive into your adventures anytime, anywhere.
+- **(not working yet)Offline Play:** No internet connection? No problem. Dive into your adventures anytime, anywhere.
 
 ## Installation
 

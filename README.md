@@ -1,6 +1,6 @@
 
 
-# ReadMe for Infinite mind
+# Infinite mind
 
 Welcome to the repository for our innovative Text Adventure Game APK! This unique application combines state-of-the-art Speech-to-Text (STT) and Text-to-Speech (TTS) technologies to create an immersive, endlessly customizable text adventure game. Players can dive into any story imaginable, with the game dynamically generating narratives based on their spoken input. Here's everything you need to know to get started.
 

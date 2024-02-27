@@ -20,7 +20,7 @@ Our Text Adventure Game offers players an unparalleled level of freedom and crea
 
 To install the Text Adventure Game APK on your Android device, follow these simple steps:
 
-1. **Download the APK:** Navigate to the 'Releases'  https://github.com/idkyet312/INFINITEMIND-APK/releases/latest section of this GitHub repository and download the latest version of the app.
+1. **Download the APK:** Navigate to the 'Releases' https://github.com/idkyet312/INFINITEMIND-APK-/releases/tag/Alpha section of this GitHub repository and download the latest version of the app.
 2. **Enable Unknown Sources:** On your device, go to `Settings > Security` and enable installation from unknown sources. This allows you to install apps outside of the Google Play Store.
 3. **Install the APK:** Open the downloaded APK file on your device and follow the on-screen instructions to install.
 4. **Launch the Game:** Once installed, open the app, and you're ready to start your adventure!
